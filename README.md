@@ -56,7 +56,7 @@ The parallax effect is achieved using:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/parallax-website.git
+[git clone https://github.com/your-username/parallax-website.git](https://github.com/wwwsandipsingha801-collab/Parallax-Website.git)
 ```
 
 2. Navigate to the project folder:
